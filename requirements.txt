@@ -1,1 +1,13 @@
-streamlit pandasnumpyplotlymatplotlibstreamlit_keplerglkeplergljson
+plotly
+streamlit
+matplotlib
+streamlit-keplergl
+numerize
+keplergl
+json
+pandas
+numpy
+
+
+
+
