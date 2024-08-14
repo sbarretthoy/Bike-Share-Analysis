@@ -24,6 +24,7 @@ Open source data from New York bike-sharing facilities operated by Citi Bike
 ## Tools
 
 - Python
+- Streamlit
 - Python libraries
   - pandas
   - numpy
